@@ -13,6 +13,7 @@ import java.util.Properties;
 public class FileLibrary {
 	
 	static Properties property;
+	
 	/**
 	 * This method is used to open property file
 	 * @throws IOException 
